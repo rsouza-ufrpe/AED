@@ -1,0 +1,2 @@
+language = "c"
+run = "gcc -o euclides -Wall euclides.c && ./euclides"

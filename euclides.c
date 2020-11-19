@@ -6,6 +6,7 @@ int main() {
 
     int m, n;
 
+    printf("Digite dois inteiros: ");
     scanf("%d%d", &m, &n);
     printf("mdc entre %d e %d: %d", m, n, euclides(m, n));
 
